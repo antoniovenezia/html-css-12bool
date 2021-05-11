@@ -1,3 +1,9 @@
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 70px;
+}
+
 .col-xs-1{
     height: 45px;
     /* background-color: black; */
