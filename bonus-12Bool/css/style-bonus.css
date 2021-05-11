@@ -4,7 +4,7 @@ h1{
     font-size: 70px;
 }
 
-.col-xs-1{
+.col-xs-1, .col-xs-5{
     height: 45px;
     /* background-color: black; */
 }
