@@ -1,0 +1,19 @@
+[class*="col"] {
+    height: 200px;
+    background-color: hsl(350deg 100% 88%);
+    border: 1px solid black;
+    /* justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    line-height: 200px;
+}
+
+.row> [class*="col"] > .row {
+    padding: 10px;
+}
+
+[class*="col"] > .row > [class*="col"]{
+    height: 180px;
+    background-color: hsl(359deg 79% 72%);
+    border-color: white;
+}
