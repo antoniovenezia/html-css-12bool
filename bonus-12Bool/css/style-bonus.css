@@ -1,0 +1,12 @@
+.col-xs-1{
+    height: 85px;
+    /* background-color: black; */
+}
+
+.green{
+    background-color: rgb(1 225 101);
+}
+
+.blue{
+    background-color: rgb(0 21 52);
+}
