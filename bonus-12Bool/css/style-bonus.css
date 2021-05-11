@@ -1,5 +1,5 @@
 .col-xs-1{
-    height: 85px;
+    height: 45px;
     /* background-color: black; */
 }
 
@@ -9,4 +9,14 @@
 
 .blue{
     background-color: rgb(0 21 52);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.col-mid{
+    width: 50%;
+    height: 45px;
+    /* border-color: black; */
 }
